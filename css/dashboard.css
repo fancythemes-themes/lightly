@@ -1,0 +1,65 @@
+/*--------------------------------------------------------------
+	THEME DASHBOARD
+--------------------------------------------------------------*/
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+.clearfix {
+    display: block;
+}
+
+.theme-tab-content {
+	margin: 50px 0;
+}
+
+.theme-content h3 {
+	font-size: 17px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.theme-content h4 {
+	font-size: 17px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.theme-content-left {
+	width: 39%;
+	margin-right: 4%;
+	float: left;
+}
+
+.theme-content-right {
+	width: 57%;
+	float: left;
+}
+
+.theme-content-right img {
+	width: 100%;
+	box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
+}
+
+.theme-content .group {
+	margin-bottom: 30px;
+}
+
+
+@media screen and (max-width:782px) {
+	.theme-content-left {
+    	width: 100%;
+    	margin-right: none;
+    }
+    .theme-content-right {
+    	width: 100%;
+    }
+}

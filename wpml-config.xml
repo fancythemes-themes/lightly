@@ -1,0 +1,14 @@
+<wpml-config>
+  <admin-texts>
+	<key name="theme_mods_lightly">
+        <key name="featured_slider_title"/>
+    </key>
+	<key name="widget_lightly_tabs">
+      <key name="*">
+        <key name="widget_one_title"/>
+        <key name="widget_two_title"/>
+        <key name="widget_three_title"/>
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>
