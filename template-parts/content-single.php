@@ -47,8 +47,8 @@
 
 		if ( ! $disable_post_nav_box && 'post' == get_post_type() ): ?>
 			<nav class="post-nav clearfix">
-				<?php next_post_link( '%link', '<span class="meta">' . esc_html__( 'Next Post', "lightly" ) . ' &rarr;</span> <h3 class="post-title-small">%title</h3>' ); ?>
-				<?php previous_post_link( '%link', '<span class="meta">&larr; ' . esc_html__( 'Previous Post', "lightly" ) . '</span> <h3 class="post-title-small">%title</h3>' ); ?>
+				<?php next_post_link( '%link', '<span class="meta">' . esc_html__( 'Next Post &rarr;', "lightly" ) . '</span> <h3 class="post-title-small">%title</h3>' ); ?>
+				<?php previous_post_link( '%link', '<span class="meta">' . esc_html__( '&larr; Previous Post', "lightly" ) . '</span> <h3 class="post-title-small">%title</h3>' ); ?>
 			</nav>
 		<?php endif; ?>
 
