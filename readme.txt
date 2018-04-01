@@ -45,8 +45,8 @@ The following resources are included within the theme package.
   Licensed under the MIT License, http://opensource.org/licenses/MIT
 * Fitvids v1.1 by Chris Coyier, http://fitvidsjs.com/
   Licensed under the WTFPL license, http://sam.zoy.org/wtfpl/
-* Photograph used on Screenshot, http://unsplash.com
-  Licensed under the CC0 Public Domain, https://creativecommons.org/publicdomain/zero/1.0/deed.en
+* Photographs used on Screenshot, (c) by Nic, CC0, http://littlevisuals.co/
+  Licensed under the CC0 Public Domain
 
 All other resources and theme elements are licensed under the GNU GPL, version 2 or later, http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
