@@ -48,7 +48,7 @@ add_filter( 'body_class', 'lightly_browser_body_class' );
  * @return string
  */
 function lightly_excerpt_more( $more ) {
-	return '&hellip';
+	return '&hellip;';
 }
 
 add_filter( 'excerpt_more', 'lightly_excerpt_more' );
